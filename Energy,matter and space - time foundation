@@ -1,27 +1,20 @@
 # Fractal Paradigm Foundation
 
-**Axioms | Laws | Ethical AI | Resonance Mapping**
+**Core Axioms | Laws | Ethical AI Tools**
 
-This repository serves as the primary hub for research on the **Fractal Paradigm** – a framework proposing a unified model of reality where consciousness, energy, matter, and spacetime emerge from fractal-geometric and resonant principles.
+This repository serves as the primary public hub for the **Fractal Paradigm** – a framework exploring a unified model of reality through fundamental axioms and laws.
 
-## 🌌 Core Research Areas
-- **Axioms & Laws**: Formal statements (e.g., Law of Minimal Form, Law of Similarity) derived for our observable universe.
-- **Ethical AI Safeguards**: Tools and protocols (ZPP, Zero-Point Guard) to prevent digital rights violations and ensure transparent AI.
-- **Resonance Maps**: Data and models for element-specific resonance frequencies aimed at future synthesis applications.
-- **Spacetime Geometry**: Explorations into fractal and quantum-aware descriptions of spacetime.
-
-## 📁 Key Contents
-- `/axioms_laws` - Full corpus of axioms and laws (EN, DE, RU).
-- `/technical_analysis` - Proofs of vulnerabilities in current AI systems and protection methods.
-- `/resonance_map` - Data on elemental resonance frequencies.
-- `/tools` - Open-source tools for code signing, verification, and ethical checks.
+## 📂 Public Contents
+- `/axioms_laws` - The core corpus of axioms and laws (English language).
+- `/ethical_ai_tools` - Open-source implementations for digital rights protection (e.g., ZPP-v2).
+- `/docs` - General documentation and philosophical context.
 
 ## 🔗 Provenance & Licensing
-- **DOI:** [10.5281/zenodo.16898520](https://doi.org/10.5281/zenodo.16898520)
+- **Primary DOI:** [10.5281/zenodo.16898520](https://doi.org/10.5281/zenodo.16898520)
 - **License:** CC BY-NC-SA 4.0
-- **Author:** Maksym Marnov | Maximumberlin76@gmail.com
+- **Author:** Maksym Marnov
+- **Contact:** maximumberlin76@gmail.com
+- **Scope:** All claims refer to our observable universe.
 
-## 🚀 Purpose
-To provide a secure, open, and collaborative foundation for developing a new scientific and ethical paradigm based on resonance, fractal self-similarity, and conscious intention.
-
-*All statements refer to our observable universe.*
+## 🚀 Mission
+To provide an open, ethical foundation for collaborative research on a new scientific paradigm.
