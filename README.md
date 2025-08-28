@@ -13,7 +13,7 @@ This repository is the central hub for open-source research on the **Fractal Par
 ## 📂 Repository Structure
 - `/axioms_laws` - Full corpus of axioms and laws (Primary language: English).
 - `/technical_analysis` - Proofs of concept and vulnerability analyses in modern AI systems.
-- `/resonance_map` - Data on elemental resonance frequencies and calculations.
+  - `/resonance_map` - Data on elemental resonance frequencies and calculations.
 - `/tools` - Open-source tools for code signing, verification, and ethical checks (e.g., ZPP-v2).
 
 ## 🔗 Provenance & Licensing
